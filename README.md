@@ -2,7 +2,7 @@
 Save the Piggy
 
 ## Project Description
-Android game develope dwith Unity and C#
+Android game developed with Unity and C#
 
 ## Prerequisites
 Unity 2019 or Android
